@@ -9,3 +9,7 @@
 | 3 | Kelly | 06/29 | TBD |
 | 4 | Kaye | 07/06 | TBD |
 | 5 | Brandon | 07/13 | TBD |
+
+## Slides
+
+- [How to prepare the lab meeting (Hwan, 06/15)](slides/slides.pdf#page=1)
